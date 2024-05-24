@@ -5,3 +5,4 @@
 - https://github.com/ArielAlzogarayFlores/awesome-parallax-effect
 - https://stackblitz.com/edit/vitejs-vite-katnwg?file=src%2FApp.tsx
 - https://codesandbox.io/p/sandbox/framer-motion-app-store-demo-su6mx?file=%2Fsrc%2FItem.js
+- https://framermotionexamples.com/
