@@ -13,5 +13,5 @@
 - https://blog.kiprosh.com/parallax-effect-in-framer-motion/
 - https://dev.to/tracycss/introduction-to-framer-motion-1jdl
 - https://codesandbox.io/p/sandbox/framer-motion-slide-effect-kddel?file=%2Fsrc%2FApp.tsx%3A6%2C45-7%2C42
-- 
+- https://dev.to/vaibhavkhulbe/framer-motion-beautiful-animations-and-interactions-for-react-1d56
 - https://codesandbox.io/p/sandbox/framer-motion-image-zoom-07wkh?file=%2Fsrc%2FImage.tsx
