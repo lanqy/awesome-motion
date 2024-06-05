@@ -15,3 +15,4 @@
 - https://codesandbox.io/p/sandbox/framer-motion-slide-effect-kddel?file=%2Fsrc%2FApp.tsx%3A6%2C45-7%2C42
 - https://dev.to/vaibhavkhulbe/framer-motion-beautiful-animations-and-interactions-for-react-1d56
 - https://codesandbox.io/p/sandbox/framer-motion-image-zoom-07wkh?file=%2Fsrc%2FImage.tsx
+- https://codesandbox.io/p/sandbox/framer-motion-5-drag-to-reorder-lists-uonye?file=%2Fsrc%2FItem.tsx
